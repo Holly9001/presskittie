@@ -17,7 +17,7 @@
 
 ## Run
 
-- Download [Docker](https://www.docker.com/products/personal)
+- Download [Docker](https://www.docker.com/products/personal) 
 - Fork/Clone this repo
 - Run it with `docker-compose up`
 - View it in your browser at [http://localhost:8080](http://localhost:8080)
