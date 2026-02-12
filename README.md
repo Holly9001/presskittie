@@ -30,7 +30,7 @@ This happens in two parts:
 
 To customise your studio presskit, modify the [code/data.xml](code/data.xml) and put new images, logo and header in [code/images](code/images). Have at least 3 screenshots.
 
-![Customise your studio](docs/studio.png)
+![Customise your studio](docs/studio.png) 
 
 To customise your game presskit, rename [code/games/a_fake_game] (code/games/a_fake_game) to your game's name, e.g. if your game is called *Captain Kittie And The Peacekeepers*, then rename that folder to `code/games/captain_kittie_and_the_peacekeepers`.
 
