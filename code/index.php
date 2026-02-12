@@ -259,10 +259,6 @@ echo '					<div class="uk-grid">
 								'. tl('Based in %s', COMPANY_BASED) .'
 							</p>
 							<p>
-								<strong>'. tl('Founding date:') .'</strong><br/>
-								'. COMPANY_DATE .'
-							</p>
-							<p>
 								<strong>'. tl('Website:') .'</strong><br/>
 								<a href="'. COMPANY_WEBSITE .'">'. parseLink(COMPANY_WEBSITE) .'</a>
 							</p>

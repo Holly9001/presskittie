@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Venison County</title>
+	<release-date>October, 2026</release-date>
+	<website>https://HollyOyster.com/venisoncounty</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Steam</name>
+			<link>https://store.steampowered.com/app/3868900/Venison_County/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>TBD</value>
+		</price>
+	</prices>
+
+	<description>
+	Venison County is a southern gothic boomer shooter where you play as a backwoods deer person tasked with reducing an onslaught of his undead neighbors into splattering venison giblets. Grab a sawed-off, polish your pitchfork, and buff yourself with cultist's sigils in an endless pursuit of the next safehouse. But be wary, stronger guns have more complex active reloads, and God doesn't take too kindly to black magic. Venison County is a game about calculated risk, and the skill it takes to walk the wire of sin and redemption.
+	</description>
+	
+	<history>
+	Venison County has seen various unnamed iterations throughout the years. Recently, however, Holly Oyster's abilities have caught up to her ambitions. Thanks to her blind spots of music and illustration being covered by her two favorite people and longtime collaborators, John Carter Wilson (musician) and Carlyle Skelton (illustrator), Venison County is now available to playtest on Steam via an open beta. Holly continues to iterate upon and polish the game on a daily basis, aiming to release Venison County in October 2026.
+	</history>
+
+	<features>
+		<feature>Over a dozen distinct, and endlessly stackable, sigils. With effects ranging from: vampirism, turning every gun into a shotgun, exploding bullets, lethal parries, and more!</feature>
+
+		<feature>Each gun's active reload has unique pacing, difficulty, and sound effects. A gun's reload is as distinctive as its shooting.</feature>
+
+		<feature>Immerse yourself in a diverse OST, from quaint banjo plucking to roaring electric guitar, as it complements the intricately designed directional audio of Venison County and its many inhabitants.</feature>
+		
+		<feature>Traverse through the entirely hand designed map. From trailer parks to church parking lots, Venison County has various points of interest to explore and paint with blood.</feature>
+
+		<feature>Wade in the blood of an endless onslaught. Every new day comes with a dynamically curated onslaught of enemies. They won't stop coming until you die. Climb the ranks of a global leaderboard to see who can cause the most carnage, and soak the earth in blood and gibs inspired by retro gorefest classics such as Blood 1997 and Quake 1996.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>mbhnXCKGuBg</youtube>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>FDEM2Rg48oA</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Chosen to be showcased at MomoCon 2026 (Upcoming).</description>
+			<info>MomoCon, 21st May, 2026</info>
+		</award>
+		<award>
+			<description>Showcased at GGX 2025.</description>
+			<info>Georgia Tech Student Center, 15th November, 2025</info>
+		</award>
+		<award>
+			<description>Showcased on AlphaBetaGamer.com.</description>
+			<info>AlphaBetaGamer.com, 3rd February, 2026</info>
+		</award>
+		<award>
+			<description>Featured on Playtester.io.</description>
+			<info>Playtester.io, 31st January, 2026</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>Yeah, it's cool. It's called Venison County.</description>
+			<name>KJ Robertson (AlphaBetaGamer)</name>
+			<website>Alpha Beta Gamer</website>
+			<link>https://www.alphabetagamer.com/venison-county-open-beta/</link>
+		</quote>
+		<quote>
+			<description>I dig it!</description>
+			<name>Donk-Zone</name>
+			<website>Donk-Zone Youtube</website>
+			<link>https://www.youtube.com/@DonkZone</link>
+		</quote>
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>Presskit Assets Google Drive</title>
+			<description>Raw gameplay, more screenshots, gifs, webms, music, etc. can be found at </description>
+			<link>https://drive.google.com/drive/folders/1r1aMNIh87luQzEV36OEAxc3WvCJbm9MF?usp=sharing</link>
+		</additional>
+		<additional>
+			<title>Beta Release Announcement</title>
+			<description>The announcement through which the beta was released is available at</description>
+			<link>https://store.steampowered.com/news/app/3868900/view/521988313706401137?l=english</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Holly Oyster</person>
+			<role>Development &amp; Business</role>
+		</credit>
+		<credit>
+			<person>John Carter Wilson</person>
+			<role>Musician, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Carlyle Skelton</person>
+			<role>Illustrator, Freelancer</role>
+		</credit>
+	</credits>
+</game>
