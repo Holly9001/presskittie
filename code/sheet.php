@@ -675,11 +675,10 @@ if( count($quotes) > 0 )
 }
 
 
-
+/*
 if( $press_request == TRUE )
 {
-	$name = "pass";
-	/*
+	
 	echo '<h2 id="preview">'.tl('Request Press Copy').'</h2>';
 	echo '<p>'. tl("Please fill in your e-mail address below to complete a distribute() request and we'll get back to you as soon as a press copy is available for you.") .'<br/>';
 	echo '<div id="mailform">';
@@ -690,23 +689,16 @@ if( $press_request == TRUE )
 	echo '<p>'. tlHtml('Alternatively, you can always request a press copy by <a href="#contact">sending us a quick email</a>.').'</p>';
 	echo '</div>';
 	echo '<hr>';
-	*/
 } else { 
 	if( $press_request_fail == TRUE ) {
-		$name = "pass";
-		/*
 		echo '<h2 id="preview">'.tl('Request Press Copy').'</h2>';
 		echo '<p>'.$press_request_fail_msg.'</p>';
 		echo '<hr>';
-		*/
 	}
 	if( $press_request_outdated_warning == TRUE ) {
-		$name = "pass";
-		/*
 		echo '<h2 id="preview">'.tl('Request Press Copy').'</h2>';
 		echo '<p>'.tl("We are afraid this developer has not upgraded their presskit() to use distribute(). For security purposes, this form has been disabled.").'</p>';
 		echo '<hr>';
-		*/
 	}
 }
 */
