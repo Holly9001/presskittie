@@ -688,7 +688,7 @@ if( $press_request == TRUE )
 	echo '<p>'. tlHtml('Alternatively, you can always request a press copy by <a href="#contact">sending us a quick email</a>.').'</p>';
 	echo '</div>';
 	echo '<hr>';
-} else {
+} else { 
 	if( $press_request_fail == TRUE ) {
 		echo '<h2 id="preview">'.tl('Request Press Copy').'</h2>';
 		echo '<p>'.$press_request_fail_msg.'</p>';
