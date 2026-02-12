@@ -281,6 +281,7 @@ for( $i = 0; $i < count($socials); $i++ )
 	echo( '<a href="'.$link.'">'.$name.'</a><br/>' );
 }
 
+/*
 echo '							</p>
 							<p>
 							<strong>'. tl('Releases:') .'</strong><br />';
@@ -293,6 +294,7 @@ if ($handle = opendir('.')) {
 	}
 }
 closedir($handle);
+*/
 
 echo '							</p>
 							<p>';
