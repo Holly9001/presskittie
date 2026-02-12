@@ -5,7 +5,7 @@
 **presskittie()** is [presskit()](https://dopresskit.com/) by [Rami Ismail](https://twitter.com/tha_rami), but with some conveniences:
 
 - run and develop it locally with docker
-- deploy it to Github Pages as a static site
+- deploy it to Github Pages as a static site 
 
 # Why?
 
