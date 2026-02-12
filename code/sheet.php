@@ -675,6 +675,7 @@ if( count($quotes) > 0 )
 }
 
 
+/*
 if( $press_request == TRUE )
 {
 	echo '<h2 id="preview">'.tl('Request Press Copy').'</h2>';
@@ -699,6 +700,7 @@ if( $press_request == TRUE )
 		echo '<hr>';
 	}
 }
+*/
 
 if( $monetize >= 1 )
 {
