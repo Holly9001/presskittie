@@ -24,7 +24,7 @@
 
 ## Customise
 
-This happens in two parts: 
+This happens in two parts:
 - your studio
 - your game(s)
 
