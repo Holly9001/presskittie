@@ -648,7 +648,7 @@ if( count($quotes) > 0 )
 {
 	echo '					<hr>
 			
-						<h2>'. tl('Selected Articles') .'</h2>
+						<h2>'. tl('Selected Testimonials') .'</h2>			// CHANGE TO ARTICLES WHEN U GET ARTICLES!!!!
 						<ul>';
 
 	for( $i = 0; $i < count($quotes); $i++ )
