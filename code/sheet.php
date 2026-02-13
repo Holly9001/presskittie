@@ -366,8 +366,9 @@ echo '					<div class="uk-grid">
 							<h2 id="factsheet">'. tl('Factsheet'). '</h2>
 							<p>
 								<strong>'. tl('Developer:'). '</strong><br/>
-								<!--<a href="../'. $languageQuery .'">'. COMPANY_TITLE .'</a><br/>-->
+								
 								<a href="https://holly9001.github.io/presskittie/">'. COMPANY_TITLE .'</a><br/>
+								<!--<a href="../'. $languageQuery .'">'. COMPANY_TITLE .'</a><br/>-->
 								'. tl('Based in %s', COMPANY_BASED) .'
 							</p>
 							<p>
@@ -865,3 +866,4 @@ echo'	</body>
 </html>';
 
 ?>
+
