@@ -53,24 +53,36 @@
 	
 	<awards>
 		<award>
+			<description>Chosen to be showcased at TooManyGames 2026 (Upcoming).</description>
+			<info>TooManyGames, 26th June, 2026</info>
+		</award>
+		<award>
 			<description>Chosen to be showcased at MomoCon 2026 (Upcoming).</description>
-			<info>MomoCon, 21st May, 2026</info>
+			<info>MomoCon, 21st May, 2026</info> 
+		</award>
+		<award>
+			<description>Chosen to be showcased at DreamHack 2026 (Upcoming).</description>
+			<info>DreamHack, 15th May, 2026</info>
+		</award>
+		<award>
+			<description>Showcased at GameFest 2026.</description>
+			<info>Georgia Tech, 25th April, 2026</info>
+		</award>
+		<award>
+			<description>Showcased at the Best In Georgia Awards Ceremony 2026.</description>
+			<info>Gwinnett Technical College, 14th April, 2026</info>
 		</award>
 		<award>
 			<description>Showcased at GGX 2025.</description>
-			<info>Georgia Tech Student Center, 15th November, 2025</info>
+			<info>Georgia Tech Tech, 15th November, 2025</info>
 		</award>
 		<award>
 			<description>Showcased at EagleCon 2026.</description>
-			<info>Emory Student Center, 29th March, 2026</info>
+			<info>Emory University, 29th March, 2026</info>
 		</award>
 		<award>
 			<description>Showcased on AlphaBetaGamer.com.</description>
 			<info>AlphaBetaGamer.com, 3rd February, 2026</info>
-		</award>
-		<award>
-			<description>Featured on Playtester.io.</description>
-			<info>Playtester.io, 31st January, 2026</info>
 		</award>
 	</awards>
 	
