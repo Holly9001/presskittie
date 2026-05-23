@@ -17,6 +17,10 @@
 
 	<socials>
 		<social>
+			<name>LinkedIn</name>
+			<link>https://www.linkedin.com/in/holly-oyster-977911362/</link>
+		</social>
+		<social>
 			<name>Twitter/X</name>
 			<link>https://x.com/Holly_Oyster</link>
 		</social>
@@ -67,15 +71,23 @@
 	
 	<awards>
 		<award>
+			<description>Had a game (Venison County) win the 1st place DreamHack Audience Choice Awards title.</description>
+			<info>DreamHack, May 17th, 2026</info>
+		</award>
+		<award>
+			<description>Won the first ever "Best Booth" Silv-E award while exhibiting a game (Venison County).</description>
+			<info>DreamHack, May 17th, 2026</info>
+		</award>
+		<award>
 			<description>Chosen to showcase a game (Venison County) at TooManyGames 2026 (Upcoming).</description>
 			<info>TooManyGames, 26th June, 2026</info>
 		</award>
 		<award>
-			<description>Chosen to showcase a game (Venison County) at MomoCon 2026 (Upcoming).</description>
+			<description>Showcased a game (Venison County) at MomoCon 2026.</description>
 			<info>MomoCon, 21st May, 2026</info> 
 		</award>
 		<award>
-			<description>Chosen to showcase a game (Venison County) at DreamHack 2026 (Upcoming).</description>
+			<description>Showcased a game (Venison County) at DreamHack 2026.</description>
 			<info>DreamHack, 15th May, 2026</info>
 		</award>
 		<award>
