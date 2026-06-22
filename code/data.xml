@@ -2,15 +2,15 @@
 <!-- example file containing base tags -->
 
 <game>	
-	<title>Holly Oyster</title>
+	<title>Cutter Oyster</title>
 
-	<website>https://HollyOyster.com</website>
+	<website>https://CutterOyster.com</website>
 	<based-in>Athens, GA 30601</based-in>
 	
-	<press-contact>hello@HollyOyster.com</press-contact>
+	<press-contact>hello@CutterOyster.com</press-contact>
 	<phone>+1 706-633-8480</phone>
 	<address>
-		<line>Holly Oyster</line>
+		<line>Cutter Oyster</line>
 		<line>188 Berlin Ct</line>
 		<line>Athens, GA 30536</line>
 	</address>
@@ -18,19 +18,19 @@
 	<socials>
 		<social>
 			<name>LinkedIn</name>
-			<link>https://www.linkedin.com/in/holly-oyster-977911362/</link>
+			<link>https://www.linkedin.com/in/cutter-oyster-977911362/</link>
 		</social>
 		<social>
 			<name>Twitter/X</name>
-			<link>https://x.com/Holly_Oyster</link>
+			<link>https://x.com/Cutter_Oyster</link>
 		</social>
 		<social>
 			<name>Youtube</name>
-			<link>https://www.youtube.com/@Holly_Oyster</link>
+			<link>https://www.youtube.com/@Cutter_Oyster</link>
 		</social>
 		<social>
 			<name>Steam Creator Profile</name>
-			<link>https://store.steampowered.com/developer/HollyOyster/about/</link>
+			<link>https://store.steampowered.com/developer/HollyOyster</link>
 		</social>
 		<social>
 			<name>Personal Discord Contact</name>
@@ -41,24 +41,20 @@
 			<name>Community Discord Server</name>
 			<link>https://discord.gg/7vpb9Xcfgj</link>
 		</social>
-		<social>
-			<name>LinkedIn</name>
-			<link>https://www.linkedin.com/in/holly-oyster-977911362/</link>
-		</social>
 	</socials>
 
 	<description>
-	Holly Oyster is an award-winning game designer and developer based in Athens, GA. She specializes in designing white-knuckle FPS action, and creating nostalgic PSX era aesthetics. Inspired by modern and classic FPS games alike, she aims to innovate within the genre while also paying homage to those who came before her.
+	Cutter Oyster is an award-winning game designer and developer based in Athens, GA. He specializes in designing white-knuckle FPS action, and creating nostalgic PSX era aesthetics. Inspired by modern and classic FPS games alike, he aims to innovate within the genre while also paying homage to those who came before her.
 	</description>
 		
 	<histories>
 		<history>
 			<header>Early History</header>
-			<text>Holly Oyster's long standing passion for creating video games spawned from a desire to put her amateurish illustrations into motion at age 13. Eight years after first opening RPG Maker MV, she now works primarily on 3D games in the Godot engine, specifically meaty and impactful retro styled shooters. Working primarily as a solo developer, she's had to develop skills in game design, 3D modeling/texturing/animation, programming, and more. She now works day in and day out in pursuit of turning her passion into a career.</text>
+			<text>Cutter Oyster's long standing passion for creating video games spawned from a desire to put her amateurish illustrations into motion at age 13. Eight years after first opening RPG Maker MV, he now works primarily on 3D games in the Godot engine, specifically meaty and impactful retro styled shooters. Working primarily as a solo developer, he's had to develop skills in game design, 3D modeling/texturing/animation, programming, and more. He now works day in and day out in pursuit of turning her passion into a career.</text>
 		</history>
 		<history>
 			<header>Recent History and Now</header>
-			<text>Holly is currently developing her first commercial game, Venison County (a boomer shooter about black magic and deer people). Thanks to a custom OST made by her best friend since grade school, John Carter Wilson, and illustrations by her girlfriend of 6 years, Carlyle Skelton, Venison County has transformed from dream to reality. The game has been played by hundreds at over a half dozen gaming expos, and even won the DreamHack 2026 Audience Choice awards 1st place prize. Venison County is on track to be released in November of 2026, and will hopefully be a well-received first entry to her fledgling catalogue of games.</text>
+			<text>Cutter is currently developing her first commercial game, Venison County (a boomer shooter about black magic and deer people). Thanks to a custom OST made by her best friend since grade school, John Carter Wilson, and illustrations by her girlfriend of 6 years, Carlyle Skelton, Venison County has transformed from dream to reality. The game has been played by hundreds at over a half dozen gaming expos, and even won the DreamHack 2026 Audience Choice awards 1st place prize. Venison County is on track to be released in November of 2026, and will hopefully be a well-received first entry to her fledgling catalogue of games.</text>
 		</history>
 	</histories>
 		
@@ -142,7 +138,7 @@
 	
 	<credits>
 		<credit>
-			<person>Holly Oyster</person>
+			<person>Cutter Oyster</person>
 			<role>Game Designer, 3D Modeler, Programmer, etc.</role>
 		</credit>
 		<credit>
@@ -158,11 +154,11 @@
 	<contacts>
 		<contact>
 			<name>Inquiries</name>
-			<mail>hello@HollyOyster.com</mail>
+			<mail>hello@CutterOyster.com</mail>
 		</contact>
 		<contact>
 			<name>Web</name>
-			<link>http://HollyOyster.com</link>
+			<link>http://CutterOyster.com</link>
 		</contact>
 	</contacts>
 </game>
