@@ -60,8 +60,8 @@
 		
 	<trailers>
 		<trailer>
-			<name>Venison County Announcement Trailer</name>
-			<youtube>MiKJDPOP5UI</youtube>
+			<name>Venison County Demo Launch Trailer</name>
+			<youtube>ppuTeMtbhcc</youtube>
 		</trailer>
 	</trailers>
 	
@@ -78,6 +78,13 @@
 			<description>Won the first ever "Best Booth" Silv-E award while exhibiting a game (Venison County).</description>
 			<info>DreamHack, May 17th, 2026</info>
 		</award>
+
+		<award>
+			<description>Had a game (Venison County) featured on IGN as part of the Secret Sauce showcase.</description>
+			<info>IGN, July 16th, 2026</info>
+		</award>
+
+
 		<award>
 			<description>Showcased a game (Venison County) at TooManyGames 2026.</description>
 			<info>TooManyGames, 26th June, 2026</info>

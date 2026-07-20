@@ -41,12 +41,12 @@
 	
 	<trailers>
 		<trailer>
-			<name>TooManyGames Trailer</name>
-			<youtube>MiKJDPOP5UI</youtube>
+			<name>Demo Launch Trailer</name>
+			<youtube>ppuTeMtbhcc</youtube>
 		</trailer>
 		<trailer>
 			<name>Gameplay Video</name>
-			<youtube>JBfAQz2xTjk</youtube>
+			<youtube>fYWTxKbv2os</youtube>
 		</trailer>
 	</trailers>
 	
@@ -59,6 +59,13 @@
 			<description>Had its associated booth win the first ever "Best Booth" Silv-E award.</description>
 			<info>DreamHack, May 17th, 2026</info>
 		</award>
+		<award>
+			<description>Featured on IGN as part of the Secret Sauce showcase.</description>
+			<info>IGN, July 16th, 2026</info>
+		</award>
+		
+
+
 		<award>
 			<description>Showcased at TooManyGames 2026 (Upcoming).</description>
 			<info>TooManyGames, 26th June, 2026</info>
