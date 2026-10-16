@@ -138,9 +138,11 @@
 	<quotes>
 		<quote>
 			<description>Hell yeah, I approve.</description>
-			<website>David Szymanski (Creator of Dusk, Squirrel Stapler, Iron Lung, etc.)</website>
+			<name>David Szymanski (Creator of Dusk, Squirrel Stapler, Iron Lung, etc.)</name>
+			<website>Reddit</website>
 			<link>https://www.reddit.com/r/Dusk_The_Game/comments/1vtnivn/comment/p50ie5p/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button/</link>
 		</quote>
+	</quotes>
 	</quotes>
 	
 	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
