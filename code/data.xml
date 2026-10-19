@@ -135,15 +135,22 @@
 		</award>
 	</awards>
 	
-	<quotes>
+<quotes>
 		<quote>
-			<description>Hell yeah, I approve.</description>
-			<name>David Szymanski (Creator of Dusk, Squirrel Stapler, Iron Lung, etc.)</name>
-			<website>Reddit</website>
-			<link>https://www.reddit.com/r/Dusk_The_Game/comments/1vtnivn/comment/p50ie5p/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button</link>
+			<description>Yeah, it's cool. It's called Venison County.</description>
+			<name>KJ Robertson (AlphaBetaGamer)</name>
+			<website>Alpha Beta Gamer</website>
+			<link>https://www.alphabetagamer.com/venison-county-open-beta/</link>
+		</quote>
+		<quote>
+			<description>I dig it!</description>
+			<name>Donk-Zone</name>
+			<website>Donk-Zone Youtube</website>
+			<link>https://www.youtube.com/@DonkZone</link>
 		</quote>
 	</quotes>
-	</quotes>
+
+
 	
 	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
 	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
